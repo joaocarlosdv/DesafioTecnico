@@ -1,0 +1,15 @@
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\bin\Debug\netcoreapp3.1\DesafioTecnicoV2.Infra.CrossCutting.deps.json
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\bin\Debug\netcoreapp3.1\DesafioTecnicoV2.Infra.CrossCutting.dll
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\bin\Debug\netcoreapp3.1\DesafioTecnicoV2.Infra.CrossCutting.pdb
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\bin\Debug\netcoreapp3.1\DesafioTecnicoV2.Domain.dll
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\bin\Debug\netcoreapp3.1\DesafioTecnicoV2.Service.dll
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\bin\Debug\netcoreapp3.1\DesafioTecnicoV2.Service.pdb
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\bin\Debug\netcoreapp3.1\DesafioTecnicoV2.Domain.pdb
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Infra.CrossCutting.csproj.AssemblyReference.cache
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Infra.CrossCutting.AssemblyInfoInputs.cache
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Infra.CrossCutting.AssemblyInfo.cs
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Infra.CrossCutting.csproj.CopyComplete
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Infra.CrossCutting.dll
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Infra.CrossCutting\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Infra.CrossCutting.pdb

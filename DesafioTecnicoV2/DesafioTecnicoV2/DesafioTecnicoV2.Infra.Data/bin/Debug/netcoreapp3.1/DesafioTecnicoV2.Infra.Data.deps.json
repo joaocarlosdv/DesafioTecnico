@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DesafioTecnicoV2.Infra.Data/1.0.0": {
+        "runtime": {
+          "DesafioTecnicoV2.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioTecnicoV2.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

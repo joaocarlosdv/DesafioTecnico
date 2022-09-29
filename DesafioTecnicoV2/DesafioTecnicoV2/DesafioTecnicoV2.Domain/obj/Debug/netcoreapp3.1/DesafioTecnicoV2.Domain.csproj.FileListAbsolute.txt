@@ -1,0 +1,10 @@
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Domain\bin\Debug\netcoreapp3.1\DesafioTecnicoV2.Domain.deps.json
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Domain\bin\Debug\netcoreapp3.1\DesafioTecnicoV2.Domain.dll
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Domain\bin\Debug\netcoreapp3.1\DesafioTecnicoV2.Domain.pdb
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Domain\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Domain.csproj.AssemblyReference.cache
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Domain\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Domain\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Domain.AssemblyInfoInputs.cache
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Domain\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Domain.AssemblyInfo.cs
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Domain\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Domain\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Domain.dll
+D:\Projetos\Pasquali\Teste\DesafioTecnicoV2\DesafioTecnicoV2\DesafioTecnicoV2.Domain\obj\Debug\netcoreapp3.1\DesafioTecnicoV2.Domain.pdb

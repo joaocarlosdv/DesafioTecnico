@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ihwH539J7oNMLXsLBFTIMLuwse8QqHtVjLBB1LD3FeRXrJ1fIgbZ88pzCmqi5YbbMwQCYlGmU8LMPVEQ/NDSQA==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Pasquali\\Teste\\DesafioTecnicoV2\\DesafioTecnicoV2\\DesafioTecnicoV2.Infra.CrossCutting\\DesafioTecnicoV2.Infra.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaoc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
